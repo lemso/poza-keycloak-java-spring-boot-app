@@ -1,4 +1,4 @@
-package fr.joza.poza.keycloak.springboot.app.web;
+package fr.joza.poza.keycloak.springboot.app.controller;
 
 import fr.joza.poza.keycloak.springboot.app.modele.Product;
 import fr.joza.poza.keycloak.springboot.app.services.ProductService;
